@@ -1,0 +1,3 @@
+[submodule "Vue3-Pinia"]
+	path = Vue3-Pinia
+	url = git@github.com:Agony95z/Vue3-Pinia.git
